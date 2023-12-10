@@ -26,7 +26,7 @@ O script `pandas-no-break-memory.py` aborda o problema de consumo excessivo de m
 
 ## Execução
 
-  **Requirement**
+- **Requirement**
   ```pip and venv.
     virtualenv venv 
     source venv/bin/activate 
